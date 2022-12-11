@@ -8,7 +8,8 @@ import ramda from './ramda.js';
 // import day7 from './day7/solution.js';
 // import day8 from './day8/solution.js';
 // import day9 from './day9/solution.js';
-import day10 from './day10/solution.js';
+// import day10 from './day10/solution.js';
+import day11 from './day11/solution.js';
 
 // setup
 ramda();
@@ -24,4 +25,5 @@ ramda();
 // day7();
 // day8();
 // day9();
-day10();
+// day10();
+day11();
